@@ -1,13 +1,3 @@
-fun main(args: Array<String>) {
-    var p1 = People("Cheryl",120)
-    var p2 = People("Oduor",112)
-    var p3 = People("Irene",115)
-
-    println(p1.name)
-    println(p3.age)
-    println(p2.salimia("Wanyama"))
-}
-
 class People(name:String, age:Int){
     //These are the properties
     var name:String
@@ -23,4 +13,16 @@ class People(name:String, age:Int){
     }
 
 }
+
+
+fun main(args: Array<String>) {
+    var p1 = People("Cheryl",120)
+    var p2 = People("Oduor",112)
+    var p3 = People("Irene",115)
+
+    println(p1.name)
+    println(p3.age)
+    println(p2.salimia("Wanyama"))
+}
+
 
