@@ -1,8 +1,0 @@
-15:06:24	 From Ian Oti  To  King Wanyama(privately) : mwalimu I would like to know if u started kotlin or if its just a continuation because I could not follow that well
-15:07:30	 From Ian Oti  To  King Wanyama(privately) : And I would also like to know if classes continued in the weekend
-15:17:20	 From King Wanyama : We continued on the friday's project
-15:17:34	 From King Wanyama : We did'nt have classes over the weekend
-15:22:45	 From Ian Oti  To  King Wanyama(privately) : ok I wasn’t around now wonder I can’t seem to understand anything at all. Hope utatutumia code kwa git hub.
-15:23:25	 From Ian Oti  To  King Wanyama(privately) : thanks :-)
-15:23:58	 From Irene : why is the name "override" telling me its an error and it autocorrected on my screen
-15:53:39	 From Irene : sawa

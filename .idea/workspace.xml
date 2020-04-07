@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9908a51a-7278-462b-a4d6-183e0c926b5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.AbstractionKt">
+  <component name="RunManager" selected="Kotlin.InterfacesKt">
     <configuration name="AbstractionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Object Orientation" />
       <option name="VM_PARAMETERS" />
@@ -44,19 +43,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Object Orientation" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="F2Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Object Orientation" />
       <option name="VM_PARAMETERS" />
@@ -65,6 +51,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="InheritanceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfacesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Object Orientation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="InterfacesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfacesKt" />
         <item itemvalue="Kotlin.AbstractionKt" />
         <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.ThirdClassKt" />
         <item itemvalue="Kotlin.SecondClassKt" />
-        <item itemvalue="Kotlin.F2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -120,22 +119,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1324" height="182" key="GridCell.Tab.0.bottom" timestamp="1586177322784">
+    <state width="1324" height="121" key="GridCell.Tab.0.bottom" timestamp="1586261499597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1586177322784" />
-    <state width="1324" height="182" key="GridCell.Tab.0.center" timestamp="1586177322783">
+    <state width="1324" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1586261499597" />
+    <state width="1324" height="121" key="GridCell.Tab.0.center" timestamp="1586261499596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1586177322783" />
-    <state width="1324" height="182" key="GridCell.Tab.0.left" timestamp="1586177322783">
+    <state width="1324" height="121" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1586261499596" />
+    <state width="1324" height="121" key="GridCell.Tab.0.left" timestamp="1586261499590">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1586177322783" />
-    <state width="1324" height="182" key="GridCell.Tab.0.right" timestamp="1586177322783">
+    <state width="1324" height="121" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1586261499590" />
+    <state width="1324" height="121" key="GridCell.Tab.0.right" timestamp="1586261499597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1586177322783" />
+    <state width="1324" height="121" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1586261499597" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585914620479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
